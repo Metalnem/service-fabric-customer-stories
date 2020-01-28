@@ -17,3 +17,8 @@
 [Solidsoft Reply platform powers everification of pharmaceuticals](https://github.com/Metalnem/service-fabric-customer-stories/blob/master/solidsoft-reply.pdf)  
 [TalkTalk innovates with a streaming TV service based on Azure Service Fabric](https://github.com/Metalnem/service-fabric-customer-stories/blob/master/talktalk.pdf)  
 [ZEISS Group focuses on Azure Service Fabric for key integration platform](https://github.com/Metalnem/service-fabric-customer-stories/blob/master/zeiss-group.pdf)  
+
+[Service Fabric Customer Profile: Citrix](https://github.com/Metalnem/service-fabric-customer-stories/blob/master/citrix.pdf)  
+[Service Fabric Customer Profile: D+H](https://github.com/Metalnem/service-fabric-customer-stories/blob/master/d-plus-h.pdf)  
+[Service Fabric Customer Profile: Info Support and Fudura](https://github.com/Metalnem/service-fabric-customer-stories/blob/master/info-support.pdf)  
+[Service Fabric Customer Profile: Wolters Kluwer CCH](https://github.com/Metalnem/service-fabric-customer-stories/blob/master/wolters-kluwer.pdf)  
